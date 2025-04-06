@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703085851966",
+    "project_id": "coderesq-d3af8",
+    "storage_bucket": "coderesq-d3af8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703085851966:android:b461f714931127c913e86f",
+        "android_client_info": {
+          "package_name": "com.example.resq_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ixXEVyM7q8zmQlLyfYqxf9u3UnL9FJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
